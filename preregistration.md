@@ -69,7 +69,7 @@ Based on the theoretical framework and prior observations, we predict:
 
 ### Primary Analysis
 
-For each participant individually:
+For all participants:
 
 1. Calculate median discrimination times for each stimulus difference
 2. Plot median discrimination time (y-axis) against stimulus difference in sq.mm (x-axis)
