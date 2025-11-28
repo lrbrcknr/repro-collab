@@ -39,15 +39,15 @@ Based on the theoretical framework and prior observations, we predict:
 
 ### Materials
 
-- **Tachistoscope**: A device that presents visual stimuli for precisely controlled durations
+- **Personal Laptop**:
 - **Stimuli**: Black squares on a white background
   - Reference square: 9.00 sq.mm (constant)
-  - Comparison squares: 39 different sizes ranging from 8.00 to 15.00 sq.mm
+  - Comparison squares: generated randomly from a uniform distribution
   - This range includes squares both smaller and larger than the reference
 
 ### Procedure
 
-1. Participants sit at a comfortable viewing distance from the tachistoscope
+1. Participants sit at a comfortable viewing distance from their personal laptop
 2. On each trial:
    - Two squares appear simultaneously (reference and comparison)
    - The participant judges which square is larger by pressing a corresponding button
